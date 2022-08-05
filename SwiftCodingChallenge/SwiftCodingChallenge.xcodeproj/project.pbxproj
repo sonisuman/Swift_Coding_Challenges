@@ -22,6 +22,11 @@
 		E423F7D9289A4F1000A8E528 /* Challenge7.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423F7D8289A4F1000A8E528 /* Challenge7.swift */; };
 		E423F7DB289A510100A8E528 /* Challenge8.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423F7DA289A510100A8E528 /* Challenge8.swift */; };
 		E423F7DD289A59AB00A8E528 /* Challenge9.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423F7DC289A59AB00A8E528 /* Challenge9.swift */; };
+		E423F7DF289C583000A8E528 /* Challenge10.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423F7DE289C583000A8E528 /* Challenge10.swift */; };
+		E423F7E1289C619D00A8E528 /* challenge11.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423F7E0289C619D00A8E528 /* challenge11.swift */; };
+		E423F7E3289C697A00A8E528 /* Challenge12.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423F7E2289C697900A8E528 /* Challenge12.swift */; };
+		E423F7E5289C854900A8E528 /* Challenge13.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423F7E4289C854900A8E528 /* Challenge13.swift */; };
+		E423F7E7289CA5B200A8E528 /* Challenge14.swift in Sources */ = {isa = PBXBuildFile; fileRef = E423F7E6289CA5B200A8E528 /* Challenge14.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +47,11 @@
 		E423F7D8289A4F1000A8E528 /* Challenge7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge7.swift; sourceTree = "<group>"; };
 		E423F7DA289A510100A8E528 /* Challenge8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge8.swift; sourceTree = "<group>"; };
 		E423F7DC289A59AB00A8E528 /* Challenge9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge9.swift; sourceTree = "<group>"; };
+		E423F7DE289C583000A8E528 /* Challenge10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge10.swift; sourceTree = "<group>"; };
+		E423F7E0289C619D00A8E528 /* challenge11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = challenge11.swift; sourceTree = "<group>"; };
+		E423F7E2289C697900A8E528 /* Challenge12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge12.swift; sourceTree = "<group>"; };
+		E423F7E4289C854900A8E528 /* Challenge13.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge13.swift; sourceTree = "<group>"; };
+		E423F7E6289CA5B200A8E528 /* Challenge14.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge14.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +108,11 @@
 				E423F7D8289A4F1000A8E528 /* Challenge7.swift */,
 				E423F7DA289A510100A8E528 /* Challenge8.swift */,
 				E423F7DC289A59AB00A8E528 /* Challenge9.swift */,
+				E423F7DE289C583000A8E528 /* Challenge10.swift */,
+				E423F7E0289C619D00A8E528 /* challenge11.swift */,
+				E423F7E2289C697900A8E528 /* Challenge12.swift */,
+				E423F7E4289C854900A8E528 /* Challenge13.swift */,
+				E423F7E6289CA5B200A8E528 /* Challenge14.swift */,
 			);
 			path = String;
 			sourceTree = "<group>";
@@ -175,14 +190,19 @@
 			files = (
 				E423F7D32899FEAF00A8E528 /* Challenge4.swift in Sources */,
 				E423F7BC2899F04E00A8E528 /* ViewController.swift in Sources */,
+				E423F7E3289C697A00A8E528 /* Challenge12.swift in Sources */,
+				E423F7E5289C854900A8E528 /* Challenge13.swift in Sources */,
 				E423F7B82899F04E00A8E528 /* AppDelegate.swift in Sources */,
 				E423F7DD289A59AB00A8E528 /* Challenge9.swift in Sources */,
 				E423F7D9289A4F1000A8E528 /* Challenge7.swift in Sources */,
 				E423F7D5289A003100A8E528 /* Challenge5.swift in Sources */,
 				E423F7CC2899F07300A8E528 /* Challenge1.swift in Sources */,
 				E423F7D12899F6D200A8E528 /* Challenge3.swift in Sources */,
+				E423F7DF289C583000A8E528 /* Challenge10.swift in Sources */,
 				E423F7D7289A442F00A8E528 /* Challenge6.swift in Sources */,
 				E423F7DB289A510100A8E528 /* Challenge8.swift in Sources */,
+				E423F7E7289CA5B200A8E528 /* Challenge14.swift in Sources */,
+				E423F7E1289C619D00A8E528 /* challenge11.swift in Sources */,
 				E423F7CF2899F27000A8E528 /* Challenge2.swift in Sources */,
 				E423F7BA2899F04E00A8E528 /* SceneDelegate.swift in Sources */,
 			);

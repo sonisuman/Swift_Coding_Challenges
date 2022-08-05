@@ -24,9 +24,15 @@ class ViewController: UIViewController {
       //print(challenge7a("    sdf     fgv"))
       //print(challenge8a("abc", "cab"))
     
-    print(challenge9("The quick brown fox jumps over the lazy dog"))
+    //print(challenge9("The quick brown fox jumps over the lazy dog"))
+//print(challenge10("soni suman"))
+    //print(challenge11(firstStr: "Grans", secondStr: "Clamp"))
+    //print(challenge12(["flower", "flow", "floght"]))
+    
+    //print(challenge13("aaccdbaae"))
+    var value = ["a","b","c"]
+    var index = 0
+    print(findPermutation(&value, index))
   }
-
-
 }
 
